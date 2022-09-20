@@ -11,6 +11,8 @@
 - 👨‍💻 All of my projects are available at [**My repositories**](https://github.com/richthegxd?tab=repositories)
 
 - 📫 How to reach me **https://vk.com/richhxx**
+
+- ⚡ Fun fact **I love to write comments in code, even if there are obvious things going on there.**
 <br>
 <br>
 
